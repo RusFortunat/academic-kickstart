@@ -44,12 +44,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mruslani@vt.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AmoryBlaine92
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JPE2PpsAAAAJ
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/ruslan.muhamadiarov
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/AmoryBlaine92
 - icon: github
   icon_pack: fab
   link: https://github.com/RusFortunat
