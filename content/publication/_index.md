@@ -13,5 +13,3 @@ header:
   image: ""
   
 ---
-
-Wheere is my content???
