@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Ruslan Mukhamadiarov
-font_size: "L"
 
 # Username (this should match the folder name)
 authors:
