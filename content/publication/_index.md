@@ -9,12 +9,9 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Here is my first publication"
-  image: ""
-
-header: 
-  caption: "Here is my seecond publication"
+  caption: ""
   image: ""
   
 ---
 
+Wheere is my content???
