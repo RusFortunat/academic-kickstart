@@ -185,7 +185,7 @@ plugins_js  = []
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
-  size = 90%
+  size = 90
 
 # Available address formats.
 [address_formats]
