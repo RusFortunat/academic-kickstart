@@ -1,8 +1,8 @@
 ---
 title: Driven Diffusive Systems
 summary: An example of using the in-built project page.
-tags:
-- Deep Learning
+# tags:
+# - Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -12,7 +12,7 @@ external_link: ""
 #  caption: Photo by rawpixel on Unsplash
 #  focal_point: Smart
 
-links:
+# links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
