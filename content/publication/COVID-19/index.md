@@ -1,9 +1,14 @@
 ---
-title: "COVID-19 paper"
+title: "Social distancing and epidemic resurgence in agent-based Susceptible-Infectious-Recovered models"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Ruslan I. Mukhamadiarov
+- Shengfeng Deng
+- Shannon R. Serrao
+- Priyanka
+- Riya Nandi
+- Louie Hong Yao
+- Uwe C. Täuber
+date: "2020-06-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,16 +18,17 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: submitted to Scientific Reports
+# publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Once an epidemic outbreak has been effectively contained through non-pharmaceutical interventions, a safe protocol is required for the subsequent release of social distancing restrictions to prevent a disastrous resurgence of the infection. We report individual-based numerical simulations of stochastic susceptible-infectious-recovered model variants on four distinct spatially organized lattice and network architectures wherein contact and mobility constraints are implemented. We robustly find that the intensity and spatial spread of the epidemic recurrence wave can be limited to a manageable extent provided release of these restrictions is delayed sufficiently (for a duration of at least thrice the time until the peak of the unmitigated outbreak) and long-distance connections are maintained on a low level (limited to less than five percent of the overall connectivity).
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We report individual-based numerical simulations of stochastic susceptible-infectious-recovered model variants on four distinct spatially organized lattice and network architectures wherein contact and mobility constraints are implemented.
 
 tags:
 - Source Themes
@@ -30,8 +36,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: https://arxiv.org/abs/2006.02552
+url_pdf: https://arxiv.org/ftp/arxiv/papers/2006/2006.02552.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
