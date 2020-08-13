@@ -1,5 +1,5 @@
 ---
-title: "Ktitorov"
+title: "Paper with Ktitorov"
 authors:
 - admin
 - Robert Ford
