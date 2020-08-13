@@ -1,5 +1,5 @@
 ---
-title: "1. Parallel Temperature Interfaces in the Katz--Lebowitz--Spohn Driven Lattice Gas"
+title: "5. Parallel Temperature Interfaces in the Katz--Lebowitz--Spohn Driven Lattice Gas"
 authors:
 - admin
 - Priyanka
