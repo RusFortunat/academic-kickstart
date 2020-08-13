@@ -30,8 +30,6 @@ abstract: Once an epidemic outbreak has been effectively contained through non-p
 # Summary. An optional shortened abstract.
 summary: We report individual-based numerical simulations of stochastic susceptible-infectious-recovered model variants on four distinct spatially organized lattice and network architectures wherein contact and mobility constraints are implemented.
 
-# tags:
-# - Source Themes
 featured: true
 
 links:
@@ -68,14 +66,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /alert %}}
-
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
