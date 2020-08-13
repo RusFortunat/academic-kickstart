@@ -1,5 +1,5 @@
 ---
-title: "2. Social distancing and epidemic resurgence in agent-based Susceptible-Infectious-Recovered models"
+title: "4. Social distancing and epidemic resurgence in agent-based Susceptible-Infectious-Recovered models"
 authors:
 - Ruslan I. Mukhamadiarov
 - Shengfeng Deng
