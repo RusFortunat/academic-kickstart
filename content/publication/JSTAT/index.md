@@ -20,26 +20,26 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We explore a variant of the Katz--Lebowitz--Spohn (KLS) driven lattice gas in two dimensions, where the lattice is split into two regions that are coupled to heat baths with distinct temperatures. The geometry was arranged such that the temperature boundaries are oriented parallel to the external particle drive and resulting net current. We have explored the changes in the dynamical behavior that are induced by our choice of the hopping rates across the temperature boundaries. If these hopping rates at the interfaces satisfy particle-hole symmetry, the current difference across them generates a vector flow diagram akin to an infinite flat vortex sheet. We have studied the finite-size scaling of the particle density fluctuations in both temperature regions, and observed that it is controlled by the respective temperature values. Specifically, if the colder subsystem is maintained at the KLS critical temperature, while the hotter subsystem's temperature is set much higher, the interface current greatly suppresses particle exchange between the two regions. As a result of the ensuing effective subsystem decoupling, strong fluctuations persist in the critical region, whence the particle density fluctuations scale with the KLS critical exponents. However, if both temperatures are set well above the critical temperature, the particle density fluctuations scale according to the totally asymmetric exclusion process (TASEP). In addition, we have measured the entropy production rate in both subsystems; it displays intriguing algebraic decay in the critical region, while it saturates quickly at a small but non-zero level in the hotter region. We have also considered another possible choice of the hopping rates across the temperature interfaces that explicitly breaks particle-hole symmetry. In that case the boundary rates induce a net particle flux across the interfaces that displays power-law behavior, until ultimately the particle exlusion constraints generate a clogging transition to an inert state.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We explore a variant of the Katz--Lebowitz--Spohn (KLS) driven lattice gas in two dimensions, where the lattice is split into two regions that are coupled to heat baths with distinct temperatures.
 
-tags:
-- Source Themes
-featured: true
+# tags:
+# - Source Themes
+# featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# links:
+# - name: ArXiv
+#  url: http://example.org
+# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -64,13 +64,13 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
