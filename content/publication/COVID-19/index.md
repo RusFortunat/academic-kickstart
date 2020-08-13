@@ -38,13 +38,13 @@ links:
 - name: Custom Link
   url: https://arxiv.org/abs/2006.02552
 url_pdf: https://arxiv.org/ftp/arxiv/papers/2006/2006.02552.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
