@@ -25,8 +25,6 @@ abstract: We explore the intriguing spatial patterns that emerge in a two-dimens
 # Summary. An optional shortened abstract.
 summary: We explore the intriguing spatial patterns that emerge in a two-dimensional spatially inhomogeneous Katz-Lebowitz-Spohn (KLS) driven lattice gas with attractive nearest-neighbor interactions.
 
-# tags:
-# - Source Themes
 featured: true
 
 links:
@@ -63,13 +61,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /alert %}}
-
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
