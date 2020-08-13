@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "JSTAT paper"
 authors:
 - admin
 - Robert Ford
