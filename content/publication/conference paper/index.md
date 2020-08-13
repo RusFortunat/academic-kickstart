@@ -1,8 +1,9 @@
 ---
-title: "An example conference paper"
+title: "3. Transverse temperature interfaces in Katz-Lebowitz-Spohn model"
 authors:
 - admin
-- Robert Ford
+- Priyanka
+- Uwe C. Täuber
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -63,12 +64,12 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
