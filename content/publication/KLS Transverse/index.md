@@ -5,7 +5,7 @@ authors:
 - Priyanka
 - Uwe C. Täuber
 date: "2019-12-16T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1103/PhysRevE.100.062122"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
