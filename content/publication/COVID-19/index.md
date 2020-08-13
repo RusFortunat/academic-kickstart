@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "COVID-19 paper"
 authors:
 - admin
 - Robert Ford
