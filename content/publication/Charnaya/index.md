@@ -1,5 +1,5 @@
 ---
-title: "5. Nuclear Magnetic Resonance Study of a Bi2Te3 Topological Insulator"
+title: "1. Nuclear Magnetic Resonance Study of a Bi2Te3 Topological Insulator"
 authors:
 - D. Yu. Podorozhkin
 - E. V. Charnaya
