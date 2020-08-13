@@ -3,7 +3,7 @@ title: "4. Electromagnetic Radiation of Electrons in Corrugated Graphene"
 authors:
 - S. A. Ktitorov
 - admin
-date: "2013-07-01T00:00:00Z"
+date: "2016-01-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
