@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD (in progress)
+  - course: PhD (in progress, since 2016)
     institution: Virginia Tech
   - course: MS in Physics
     institution: Saint Petersubrg State University
@@ -73,4 +73,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Ruslan and I'm a fifth year graduate student at Virginia Tech. I explore the dynamics of non-equilibrium systems as they harbor unexpected and even novel physical phenomena. Discerning the right physics in these complex systems is a challenging task, and I use modern theoretical methods and computer simulations to approach it. Currently, I am studying dynamical properties of inhomogeneous driven diffusive systems with attractive interactions, and investigating the depinning transition in magnetic skyrmions.
+My name is Ruslan and I'm a fifth year graduate student at Virginia Tech. I explore the dynamics of non-equilibrium systems as they harbor unexpected and even novel physical phenomena. Discerning the right physics in these complex systems is a challenging task, and I use modern theoretical methods and computer simulations to approach it. 
+
+Currently, I am studying dynamical properties of inhomogeneous driven diffusive systems with attractive interactions, and investigating the depinning transition in magnetic skyrmions.
