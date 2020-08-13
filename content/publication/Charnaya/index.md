@@ -23,10 +23,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Physics of the Solid State*
-# publication_short: In *STC*
+publication: In *Physics of the Solid State*, 2015, Vol. 57, No. 9, pp. 1741–1745
+publication_short: In *Physics of the Solid State*
 
-abstract: The results of the nuclear magnetic resonance (NMR) study of a grown high-quality $$Bi_2 Te_3$$ semi-conductor single crystal have been presented. Signals from the $$^125 Te$$ isotope were detected by the spin echo method in the range from 10 K to room temperature. It was found that the NMR spectrum consists of two lines. The line with a positive shift of the resonance frequency corresponded to the bulk of the sample. The line with a negative shift was interpreted as a signal from the surface of the single crystal. The temperature and orientational dependences of the positions of the NMR line of nuclei in the bulk of the crystal were studied. It was shown that the shifts are mainly determined by the Knight shift due to the interaction with mobile charge carriers. The thermoactivation character of the concentration of mobile charges in the crystal under study, which corresponds to the intrinsic conductance, was proved, and the energy parameters of the thermo-activation processes were calculated.
+abstract: The results of the nuclear magnetic resonance (NMR) study of a grown high-quality $Bi_2 Te_3$ semi-conductor single crystal have been presented. Signals from the $^125 Te$ isotope were detected by the spin echo method in the range from 10 K to room temperature. It was found that the NMR spectrum consists of two lines. The line with a positive shift of the resonance frequency corresponded to the bulk of the sample. The line with a negative shift was interpreted as a signal from the surface of the single crystal. The temperature and orientational dependences of the positions of the NMR line of nuclei in the bulk of the crystal were studied. It was shown that the shifts are mainly determined by the Knight shift due to the interaction with mobile charge carriers. The thermoactivation character of the concentration of mobile charges in the crystal under study, which corresponds to the intrinsic conductance, was proved, and the energy parameters of the thermo-activation processes were calculated.
 
 # Summary. An optional shortened abstract.
 summary: The results of the nuclear magnetic resonance (NMR) study of a grown high-quality $Bi_2 Te_3$ semi-conductor single crystal have been presented.
@@ -34,8 +34,8 @@ summary: The results of the nuclear magnetic resonance (NMR) study of a grown hi
 featured: true
 
 links:
-# - name: Journal
-#   url: https://doi.org/10.1134/S1063783415090279
+ - name: Physics of the Solid State
+   url: https://link.springer.com/article/10.1134%2FS1063783415090279
 url_pdf: https://link.springer.com/content/pdf/10.1134/S1063783415090279.pdf
 # url_code: '#'
 # url_dataset: '#'
