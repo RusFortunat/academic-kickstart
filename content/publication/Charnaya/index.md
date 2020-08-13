@@ -31,8 +31,6 @@ abstract: The results of the nuclear magnetic resonance (NMR) study of a grown h
 # Summary. An optional shortened abstract.
 summary: The results of the nuclear magnetic resonance (NMR) study of a grown high-quality $Bi_2 Te_3$ semi-conductor single crystal have been presented.
 
-# tags:
-# - Source Themes
 featured: true
 
 links:
@@ -69,14 +67,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /alert %}}
-
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
