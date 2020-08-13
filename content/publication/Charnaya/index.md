@@ -1,15 +1,15 @@
 ---
 title: "5. Nuclear Magnetic Resonance Study of a Bi2Te3 Topological Insulator"
 authors:
-- D. Yu. Podorozhkina
-- E. V. Charnayab
-- A. Antonenkob
+- D. Yu. Podorozhkin
+- E. V. Charnaya
+- A. Antonenko
 - admin
-- V. V. Marchenkovc
-- S. V. Naumovc
-- J. C. A. Huange
-- H. W. Weberf
-- A. S. Bugaevg
+- V. V. Marchenkov
+- S. V. Naumov
+- J. C. A. Huang
+- H. W. Weber
+- A. S. Bugaev
 date: "2015-03-26T00:00:00Z"
 doi: "https://doi.org/10.1134/S1063783415090279"
 
