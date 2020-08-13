@@ -1,8 +1,9 @@
 ---
-title: "JSTAT paper"
+title: "1. Parallel Temperature Interfaces in the Katz--Lebowitz--Spohn Driven Lattice Gas"
 authors:
 - admin
-- Robert Ford
+- Priyanka
+- Uwe C. Täuber
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
