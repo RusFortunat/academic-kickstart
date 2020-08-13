@@ -1,5 +1,5 @@
 ---
-title: Another Project
+title: Driven Diffusive Systems
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
