@@ -4,7 +4,7 @@ authors:
 - S. A. Ktitorov
 - admin
 date: "2016-01-25T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1134/S1063782616080157"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2016-01-25T00:00:00Z"
@@ -16,8 +16,8 @@ publishDate: "2016-01-25T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Semiconductors*, 2016, Vol. 50, No. 8, pp. 1060–1064
+publication_short: In *Semiconductors*
 
 abstract: Bremsstrahlung in corrugated single-layer graphene in the presence of a ballistic transport current is analyzed. Radiation of a similar nature is observed in undulators and wigglers. Regular and chaotic corrugations (ripples) are considered. It is shown that the quadratic relation between the Monge membrane function and the synthetic calibration field leads to the appearance of a central peak in the radiation spectral density. Possible formation mechanisms of single-layer graphene corrugation are proposed. In one case, the corrugation is considered as an incommensurate superstructure in a two-dimensional crystal, resulting from instability developing in the optical phonon subsystem with the formation of a periodic soliton train. Corrugation results from the interaction of subsystems. Another possible mechanism consists in instability of the membrane flat state due to strong fluctuations characteristic of two-dimensional systems.
 
@@ -29,7 +29,9 @@ featured: true
 links:
 - name: ArXiv
   url: https://arxiv.org/abs/1501.06471
-url_pdf: https://arxiv.org/ftp/arxiv/papers/1501/1501.06471.pdf
+- name: Semiconductors
+  url: https://link.springer.com/article/10.1134/S1063782616080157
+url_pdf: https://link.springer.com/content/pdf/10.1134/S1063782616080157.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
