@@ -1,8 +1,8 @@
 ---
-title: "Paper with Ktitorov"
+title: "4. Electromagnetic Radiation of Electrons in Corrugated Graphene"
 authors:
+- S. A. Ktitorov
 - admin
-- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
