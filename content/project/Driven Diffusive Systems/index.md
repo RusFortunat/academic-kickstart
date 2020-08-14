@@ -14,7 +14,8 @@ external_link: ""
 
 image:
 #  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  focal_point: Bottom
+  preview_only: true
 
 # links:
 # - icon: twitter
@@ -36,6 +37,6 @@ slides: example
 
 The absence of a unified theoretical framework for nonequilibrium systems has instigated the development of a variety of simple models that capture certain decisive features of nonequilibrium processes. Driven lattice gases represent a class of paradigmatic interacting particle systems that has attracted considerable attention over the past decades.
 
-{{< figure library="true" src="torus_parallel.jpg" >}}
+# {{< figure library="true" src="torus_parallel.jpg" >}}
 
 These driven lattice gas models are characterized by nontrivial stationary states that display generic scale invariance, implying that their dynamics is governed (asymptotically) by power laws and genuine nonequilibrium scaling exponents. Prototypical examples are the asymmetric and totally asymmetric exclusion processes (T)ASEP with hard-core particles and (fully) biased hopping transport. Adding attractive nearest-neighbor Ising interactions as in the Katz-Lebowitz-Spohn (KLS) model moreover induces a continuous phase transition at a critical temperature Tc separating disordered configurations from a low-temperature regime showing phase segregation in the form of ordered particle (or hole) stripes oriented parallel to the drive.
