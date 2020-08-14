@@ -2,12 +2,12 @@
 title: Driven Lattice Gases
 summary: Here I explore the intriguing spatial patterns that emerge in a two-dimensional spatially inhomogeneous Katz-Lebowitz-Spohn (KLS) driven lattice gas with attractive nearest-neighbor interactions.
 
-header:
-  caption: ""
-  image: "torus_parallel.jpg"
+# header:
+#  caption: ""
+#  image: "torus_parallel.jpg"
 # tags:
 # - Deep Learning
-# date: "2016-04-27T00:00:00Z"
+ date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
