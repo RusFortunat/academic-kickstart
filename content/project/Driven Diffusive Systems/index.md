@@ -14,6 +14,7 @@ external_link: ""
 
 image:
 #  caption: Photo by rawpixel on Unsplash
+  image: torus_parallel.jpg
   focal_point: Smart
 
 # links:
